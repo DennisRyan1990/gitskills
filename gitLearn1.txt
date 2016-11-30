@@ -1,0 +1,14 @@
+this is line 1
+this is line 2
+--modify 01--
+this is modify 1
+
+--modify 02--
+this is modify 2
+aaaaaaaaaaa
+
+--checkout 01--
+git checkout learn 01 [this begin add new line]
+
+--checkout 02--
+this is checkout learning line 2
