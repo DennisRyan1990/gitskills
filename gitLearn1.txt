@@ -1,2 +1,5 @@
 --git distribute branch learn 01--
 this is line 1
+
+--git distribute branch learn 02--
+this is line 2
