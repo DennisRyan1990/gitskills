@@ -3,3 +3,5 @@ this is line 1
 
 --git distribute branch learn 02 with master change too--
 this is line 2
+
+--git test conflict
