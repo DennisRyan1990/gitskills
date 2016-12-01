@@ -1,5 +1,5 @@
 --git distribute branch learn 01--
 this is line 1
 
---git distribute branch learn 02 for master change too--
+--git distribute branch learn 02 with master change too--
 this is line 2
