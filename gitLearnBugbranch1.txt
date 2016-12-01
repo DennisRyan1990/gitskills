@@ -1,0 +1,4 @@
+--git bug branch 
+before launch...--
+
+this is line 1
