@@ -1,8 +1,8 @@
 --git distribute branch learn 01--
-this is line 1 szy
+this is line 1
 
 --git distribute branch learn 02 with master change too--
-this is line 2     czz
+this is line 2
 
 --git test conflict
 
@@ -16,3 +16,4 @@ oooooqqqqq
 
 --git distribute branch learn 03 [--no-ff]--
 this is line 1
+
