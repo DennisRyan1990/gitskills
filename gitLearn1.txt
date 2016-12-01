@@ -2,7 +2,7 @@
 this is line 1
 
 --git distribute branch learn 02 with master change too--
-this is line 2
+this is line 2     czz
 
 --git test conflict
 
