@@ -14,5 +14,3 @@ czz is DaLaJi
 --mmmmmmmm--
 oooooqqqqq
 
---git distribute branch learn 03 [--no-ff]--
-this is line 1
