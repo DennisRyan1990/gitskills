@@ -1,2 +1,2 @@
 title -- moon plan
-rocket
+rocket = common.util.makRocket;
