@@ -1,0 +1,5 @@
+--common air factory
+
+product1:makeRocket(return > make a rocket);
+
+product2:makeArtificialSatellite(return > make a artificial satellite);
